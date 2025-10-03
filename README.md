@@ -37,7 +37,7 @@ venv\Scripts\activate      # Windows
 
 3. Installer les dépendances
 
-pip install pandas scikit-learn
+pip install -r requirements.txt
 
 ▶️ Utilisation
 
